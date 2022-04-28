@@ -10,6 +10,12 @@ npm install
 npm run serve
 ```
 
+### Runs back-end server for API
+```
+cd back
+node server
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
